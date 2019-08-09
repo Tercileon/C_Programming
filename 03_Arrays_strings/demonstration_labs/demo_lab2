@@ -1,0 +1,22 @@
+#include <stdio.h>
+
+int main(void)
+{
+	char myFavoriteWord [10] = {0};
+	
+	myFavoriteWord[0] = 70;
+	myFavoriteWord[1] = 97;
+	myFavoriteWord[2] = 110;
+	myFavoriteWord[3] = 116;
+	myFavoriteWord[4] = 97;
+	myFavoriteWord[5] = 115;
+	myFavoriteWord[6] = 116;
+	myFavoriteWord[7] = 105;
+	myFavoriteWord[8] = 99;
+	
+	printf("My favorite word is %s \n", myFavoriteWord);
+	
+	getchar();
+	return;
+	
+}
