@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # CMake
 
@@ -149,5 +152,6 @@ add_executable(hello ${PROJECT_SOURCE_DIR}/test.cpp)
 https://linux.die.net/man/1/cmake
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/02_Variables/README.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
 
+|[Next Topic](/02_Variables/README.md)|
+|---|
