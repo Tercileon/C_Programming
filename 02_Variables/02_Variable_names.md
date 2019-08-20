@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # Variable Names
 
@@ -27,5 +30,5 @@ A variable name can be composed of letters and digits. They may not begin with a
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/02_Variables/03_Data_types.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
-
+|[Next Topic](/02_Variables/03_Data_types.md)|
+|---|
