@@ -80,6 +80,6 @@ fscanf(stdin, “%19s”, nickName);    // Safer string read from stdin
 
 ---
 
-|[Next Topic](/05_Operators_expressions/README.md|
+|[Next Topic](/05_Operators_expressions/README.md)|
 |---|
 
