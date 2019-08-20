@@ -62,4 +62,5 @@ The first standard for C was published by ANSI. As of march 2000, ANSI adopted t
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/02_Variables/07_Type_conversions.md" > Continue to Next Topic </a>
+|[Next Topic](/02_Variables/07_Type_conversions.md)|
+|---|
