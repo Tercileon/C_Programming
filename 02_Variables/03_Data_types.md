@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # Data Types
 
@@ -68,7 +71,7 @@ int main(void)
   * Output
   * Printf Format Specifiers
   
-  ---
+---
   
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/02_Variables/04_Sizes.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
-
+|[Next Topic](/02_Variables/04_Sizes.md)|
+|---|
