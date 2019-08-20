@@ -96,4 +96,5 @@ There are much more efficient ways to iterate through an array such as loops (wh
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/03_Arrays_strings/performance_labs/lab3/lab3.md" rel="PERFORMANCE LAB 3"> PERFORMANCE LAB 3 </a>
+|[Performance Lab 3](/03_Arrays_strings/performance_labs/lab3/lab3.md)|
+|---|
