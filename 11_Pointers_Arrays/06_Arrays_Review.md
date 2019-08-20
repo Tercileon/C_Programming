@@ -6,7 +6,6 @@
 
 # Arrays Review
 
-# UNDER CONSTRUCTION
 ---
 
 **Pointers & Arrays** are closely related in C programming
