@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # GNU C Compiler
 
@@ -171,5 +174,6 @@ $ ./hello
 ```
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/01_Introduction/05_cmake.md" > Continue to Next Topic </a>
 
+|[Next Topic](/01_Introduction/05_cmake.md)|
+|---|
