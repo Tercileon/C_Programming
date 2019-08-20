@@ -114,5 +114,5 @@ Pseudocode is simply an informal and high-level description of an operating prin
 
 ---
 
-|[Next Topic]](/01_Introduction/02_C-language-features.md)|
+|[Next Topic](/01_Introduction/02_C-language-features.md)|
 |---|
