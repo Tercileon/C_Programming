@@ -220,5 +220,6 @@ printf("%016.11s", "Hello world!\0");
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/04_IO_part_1/07_scanf.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+|[Next Topic](/04_IO_part_1/07_scanf.md)|
+|---|
 
