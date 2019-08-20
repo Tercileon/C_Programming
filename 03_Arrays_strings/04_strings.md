@@ -154,5 +154,6 @@ printf("My favorite word is %s!\n", myFavWord);
 ---
 ## Complete Performance Lab 4:
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/03_Arrays_strings/performance_labs/lab4/lab4.md" rel="PERFORMANCE LAB 4"> PERFORMANCE LAB 4 </a>
+|[Performance Lab 4](/03_Arrays_strings/performance_labs/lab4/lab4.md)|
+|---|
 
