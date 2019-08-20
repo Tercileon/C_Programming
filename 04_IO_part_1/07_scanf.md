@@ -142,5 +142,6 @@ scanf(“%64[^e\n]s”, Gadsby);     // Stops reading at first e or newline
 
 ## Complete Performance Lab 8
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/04_IO_part_1/performance_labs/lab8/lab8.md" rel="PERFORMANCE LAB 8"> PERFORMANCE LAB 8 </a>
+|[Performance Lab 8](/04_IO_part_1/performance_labs/lab8/lab8.md)|
+|---|
 
