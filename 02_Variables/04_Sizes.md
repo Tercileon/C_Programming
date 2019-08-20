@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # Sizes - Why Does Size Matter?
 
@@ -43,6 +46,5 @@ int main(void)
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/02_Variables/05_Declarations.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
-
-
+|[Next Topic](/02_Variables/05_Declarations.md)|
+|---|
