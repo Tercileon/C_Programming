@@ -24,6 +24,8 @@ The terms below are important to remember because compiler errors may be specifi
 | remainder = \(num % 2\) + 1 |  |  |
 | \(4\*a\*c+b\*b\)/\(2\*a\) |  |  |
 
----|[Next Topic](/05_Operators_expressions/02_arithmetic-operators.md)|
+---
+
+|[Next Topic](/05_Operators_expressions/02_arithmetic-operators.md)|
 |---|
 
