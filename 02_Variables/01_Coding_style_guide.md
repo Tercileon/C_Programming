@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # Coding Style Guide
 
@@ -63,4 +66,5 @@ Ensure you use the correct extensions. The first character of the file name shou
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/02_Variables/02_Variable_names.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+|[Next Topic](/02_Variables/02_Variable_names.md)|
+|---|
