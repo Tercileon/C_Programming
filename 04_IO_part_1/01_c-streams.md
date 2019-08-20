@@ -39,4 +39,5 @@ The purpose of Standard Error is **error buffering** and it's default method poi
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/04_IO_part_1/02_functions.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+|[Next Topic](/04_IO_part_1/02_functions.md)|
+|---|
