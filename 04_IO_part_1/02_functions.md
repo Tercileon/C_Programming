@@ -61,5 +61,6 @@ void exit(int status)
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/04_IO_part_1/03_getchar-putchar.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+|[Next Topic](/04_IO_part_1/03_getchar-putchar.md)|
+|---|
 
