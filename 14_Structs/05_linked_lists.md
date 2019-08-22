@@ -2,7 +2,8 @@
 |---|
 
 ---
-# Linked Lists
+
+## Linked Lists
 
 A chain of items (a node).
 
@@ -24,15 +25,12 @@ Two **common** types of linked lists:
 
 ![](/assets/singleLink.JPG)
 
-
-
-
-
 #### DOUBLY linked
 
 ![](/assets/doubleLink.JPG)
 
 ## Singly linked, singly discussed
+
 ```c
 struct Student90COS {
     char student_initials[4];
@@ -65,6 +63,7 @@ struct Student90COS MQT16_01_S1  = { “MTA”, 1, &MQT16_01_S2 };
 ---
 
 ![](/assets/linkedStruct.JPG)
+
 ```c
 struct Linked = {NULL, 1001, "Record1", NULL};
 ```
@@ -94,6 +93,7 @@ struct Linked = {NULL, 1001, "Record1", NULL};
 ![](/assets/circList.JPG)
 
 ### DEMONSTRATION LABs:
+
 ### Demo Struct 1
 
 ```c
@@ -133,6 +133,7 @@ int main(void)
 
 ---
 ### Demo Struct 2
+
 ```c
 
 #include <stdio.h>
@@ -183,7 +184,10 @@ void spillList(node *n)
 ```
 
 ---
+
 ### COMPLETE PERFORMANCE LAB - Linked List
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/14_Structs/performance_labs/Lab_Linked_list.md" rel="Linked List"> Linked List </a>
+---
 
+|[Performance Lab Linked List](/14_Structs/performance_labs/Lab_Linked_list.md)|
+|---|
