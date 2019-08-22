@@ -208,5 +208,5 @@ Your number now: 0x13ADE68B
 
 ## Performance Lab 10 
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/06_Bitwise_operators/performance_labs/lab10.md" rel="PERFOMANCE LAB 10"> PERFORMANCE LAB 10 </a>
-
+|[Performance Lab 10](/06_Bitwise_operators/performance_labs/lab10.md)|
+|---|
