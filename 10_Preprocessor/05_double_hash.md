@@ -146,4 +146,6 @@ int main(void)
 ### NOTE: DOUBLE HASH ## can be buggy and therefore DANGEROUS
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/10_Preprocessor/06_undef.md" > Continue to Next Topic </a>
+
+|[Next Topic](/10_Preprocessor/06_undef.md)|
+|---|
