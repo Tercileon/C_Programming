@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/06_Bitwise_operators/capstone-1.md" rel="Go on to Capstone"> Go on to Capstone </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # Capstone 1: Flip a single bit using XOR
 
@@ -11,4 +14,5 @@
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/07_Control_flow/README.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+|[Next Topic](/07_Control_flow/README.md)|
+|---|
