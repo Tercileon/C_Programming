@@ -13,4 +13,5 @@ Bitwise operations can be used to pack single-bit values in a large storage spac
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/06_Bitwise_operators/02_numbering-systems.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+|[Next Topic](/06_Bitwise_operators/02_numbering-systems.md)|
+|---|
