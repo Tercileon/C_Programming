@@ -203,5 +203,5 @@ extern int print_the_count(char * inputString, int strLen)
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/08_Functions/06_recursion.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
- 
+|[Next Topic](/08_Functions/06_recursion.md)|
+|---| 
