@@ -147,6 +147,8 @@ int * moreNums_ptr = (someNums + 2);  // Points at &someNums[2]
  **Note** - For the purposes of this lab, “natural number” is defined as a whole, positive integer greater than zero [1,2,3,4…]
  
  ---
+ 
  **Continue to Performance Lab - String Splitter**
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/11_Pointers_Arrays/performance_labs/PerLab_string_Spltter.md"> Continue to String Splitter Lab </a>
+|[Performance Lab](/11_Pointers_Arrays/performance_labs/PerLab_string_Spltter.md)|
+|---|
