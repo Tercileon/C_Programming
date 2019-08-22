@@ -334,4 +334,5 @@ Conditional compilation:
 ---
 ### PERFORMANCE LAB 25
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/10_Preprocessor/performance_labs/Lab25.md" rel="PERFORMANCE LAB 25"> PERFORMANCE LAB 25 </a>
+|[Performance Lab 25](/10_Preprocessor/performance_labs/Lab25.md)|
+|---|
