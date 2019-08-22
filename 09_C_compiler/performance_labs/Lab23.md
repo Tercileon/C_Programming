@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # PERFORMANCE LAB 23
 
@@ -10,4 +13,5 @@
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/10_Preprocessor/README.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+|[Next Topic](/10_Preprocessor/README.md)|
+|---|
