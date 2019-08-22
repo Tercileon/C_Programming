@@ -150,3 +150,4 @@ guy1->age = 32;
 ---
 
 |[Next Topic](/14_Structs/03_arrays_of_structs.md)|
+|---|
