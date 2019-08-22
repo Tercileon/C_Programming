@@ -25,4 +25,6 @@ If the **magnitude** of the correct *result is too large* to be represented, the
 If the **magnitude** of the *result is too small*, a value of zero is returned instead. In this case, errno might or might not be set to ERANGE.
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/15_Error_handling/05_pointers.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+
+|[Next Topic](/15_Error_handling/05_pointers.md)|
+|---|
