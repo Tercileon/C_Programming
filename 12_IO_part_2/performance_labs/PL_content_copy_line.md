@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/12_IO_part_2/02_related_functions.md" rel="Return to TOPIC"> Return to TOPIC </a>
+|[Return to Topic](/12_IO_part_2/02_related_functions.md)| [Table of Contents](/00-Table-of-Contents.md)|
+|---|---|
+
+---
 
 ## PERFORMANCE LAB: CONTENT COPY (LINE-BY-LINE)
 
@@ -15,4 +18,5 @@ File I/O – fputs()
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/12_IO_part_2/performance_labs/PL_usernames.md" rel="Continue to USERNAMES Lab"> Continue to USERNAMES Lab </a>
+|[Performance Lab Usernames](/12_IO_part_2/performance_labs/PL_usernames.md)|
+|---|
