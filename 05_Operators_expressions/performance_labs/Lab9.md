@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/06_Bitwise_operators/README.md" rel="Next Topic"> Next Topic </a>
+|[Table of Contents](/06_Bitwise_operators/README.md)|
+|---|
+
+---
 
 # Lab 9: Operators and Expression
 
@@ -51,6 +54,5 @@ int main(void)
 ```
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/06_Bitwise_operators/README.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
-
-
+|[Next Topic](/06_Bitwise_operators/README.md)|
+|---|
