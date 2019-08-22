@@ -145,4 +145,5 @@ External objects and functions must not be defined more than once in a program.
 
 ## COMPLETE PERFORMANCE LAB 22
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/09_C_compiler/performance_labs/Lab22.md" rel="PERFORMANCE LAB 22"> PERFORMANCE LAB 22 </a>
+|[Performance Lab 22](/09_C_compiler/performance_labs/Lab22.md)|
+|---|
