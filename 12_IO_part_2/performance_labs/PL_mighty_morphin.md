@@ -1,4 +1,7 @@
 |[Next Topic](/12_IO_part_2/02_related_functions.md)|
+|---|
+
+---
 
 ## PERORMANCE LAB: MIGHTY MORHPIN'
 
