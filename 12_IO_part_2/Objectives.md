@@ -29,9 +29,9 @@ In this chapter, we will re-iterate our Coding style expectations and presentati
 4. Indent/Brace style
 5. Variables
 
-
 **NOTE:** Presentations are not guaranteed to show complete code (AKA: stub code)
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/12_IO_part_2/01_file_data_type.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+|[Next Topic](/12_IO_part_2/01_file_data_type.md)|
+|---|
