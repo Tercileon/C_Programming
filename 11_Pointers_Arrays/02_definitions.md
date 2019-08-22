@@ -25,4 +25,5 @@ Refers to the order of the bytes, for multiple-byte data elements, in computer m
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/11_Pointers_Arrays/03_endianness.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+|[Next Topic](/11_Pointers_Arrays/03_endianness.md)|
+|---|
