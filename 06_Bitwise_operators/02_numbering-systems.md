@@ -127,5 +127,6 @@ Hexadecimal is useful for representing binary data. Each hexadecimal digit repre
 
 #### Check out: [https://en.wikipedia.org/wiki/Hexspeak](https://en.wikipedia.org/wiki/Hexspeak)
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/06_Bitwise_operators/03_bitwise-operators.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+|[Next Topic](/06_Bitwise_operators/03_bitwise-operators.md)|
+|---|
 
