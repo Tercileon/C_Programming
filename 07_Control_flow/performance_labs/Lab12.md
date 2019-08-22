@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # PERFORMANCE LAB 12
 
@@ -15,4 +18,5 @@
 ---
 
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/07_Control_flow/02_conditional-statements.md" rel="Return to Topic"> Return to Topic </a>
+|[Return to Topic](/07_Control_flow/02_conditional-statements.md)|
+|---|
