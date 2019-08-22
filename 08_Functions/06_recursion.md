@@ -286,12 +286,17 @@ int fibonacci_number(int sequenceNumber);
     * Starts with 0 and 1 then each subsequent number is calculated by adding the two previous sequence numbers
     * F(n) = F(n-1) + F(n-2)
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/08_Functions/demonstration_labs/Lab_3_fibonacci_recursive.md" rel="Solution to Demo lab3"> Solution to Demo lab3 </a>
+
+|[Solution to Demo Lab 3](/08_Functions/demonstration_labs/Lab_3_fibonacci_recursive.md)|
+|---|
 
 ---
 
 # Complete Performance Lab: Recursion
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/08_Functions/performance_labs/lab8c/Lab21.md" rel="Recursion Lab"> Recursion Lab </a>
+|[Recursion Lab](/08_Functions/performance_labs/lab8c/Lab21.md)|
+|---|
+
+---
 
 * Proceed to performance_labs/lab8c/ and follow the instructions 
