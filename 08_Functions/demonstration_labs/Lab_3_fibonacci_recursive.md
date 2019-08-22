@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ```c
 
@@ -80,4 +81,6 @@ void error_reporting(int currErrno)
 ```
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/08_Functions/06_recursion.md" rel="Return to Topic"> Return to Topic </a>
+
+|[Return to Topic](/08_Functions/06_recursion.md)|
+|---|
