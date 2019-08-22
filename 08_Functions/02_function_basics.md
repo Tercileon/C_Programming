@@ -163,7 +163,8 @@ int remove_newline(char * buffer);
     * Return ERR_NULL_POINTER if buffer is NULL
     * Return ERR_NONE_FOUND if no newlines are found
     
-    <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/08_Functions/demonstration_labs/newline_records.md" rel="Solution to Demo"> Solution to Demo </a>
+    |[Solution to Demo](/08_Functions/demonstration_labs/newline_records.md)|
+    |---|
 
 ---
 
