@@ -65,5 +65,6 @@ for (i = 1; i <= 4; i++)
 
 ## COMPLETE PERFORMANCE LAB 19
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/07_Control_flow/performance_labs/Lab19.md" rel="PERFORMANCE LAB 19"> PERFORMANCE LAB 19 </a>
+|[Performance Lab 19](/07_Control_flow/performance_labs/Lab19.md)|
+|---|
 
