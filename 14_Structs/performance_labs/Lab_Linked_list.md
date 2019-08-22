@@ -1,10 +1,13 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Linked Lists Lab 1
+---
+
+## Linked Lists Lab 1
 
 ![](/assets/subbie.jpg)
 
-## Requirments
+### Requirments
 
 * Utilize headers for all declarations
 * Utilize proper naming schemas
@@ -14,7 +17,7 @@
 * Break your code out into functions
 * Utilize multiple C files if needed 
 
-## Instructions
+### Instructions
 
 1. Create a linked list, the struct members should contain the following:
     * Each students initals
@@ -41,4 +44,6 @@
         * ex: You have a ton of commits 
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/14_Structs/06_function_pointers.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+
+|[Next Topic](/14_Structs/06_function_pointers.md|
+|---|
