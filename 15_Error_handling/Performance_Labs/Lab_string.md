@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# PERFORMANCE LAB - WALK THE STRING
+---
+
+## PERFORMANCE LAB - WALK THE STRING
 
 OBJECTIVES:
 
@@ -10,4 +13,6 @@ OBJECTIVES:
 4. STEP #2- BREAK ASSERT() BY UNSAFELY READING INPUT INTO THE CHAR ARRAY.
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/15_Error_handling/02_errno.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+
+|[Next Topic](/15_Error_handling/02_errno.md)|
+|---|
