@@ -78,4 +78,5 @@ void my_function(void)                  //function definition
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/08_Functions/02_function_basics.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+|[Next Topic](/08_Functions/02_function_basics.md)|
+|---|
