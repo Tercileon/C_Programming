@@ -21,5 +21,5 @@
 
 ---
 
-|[Arrasy Review](/11_Pointers_Arrays/06_Arrays_Review.md)|
+|[Arrays Review](/11_Pointers_Arrays/06_Arrays_Review.md)|
 |---|
