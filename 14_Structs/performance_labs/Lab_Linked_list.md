@@ -45,5 +45,5 @@
 
 ---
 
-|[Next Topic](/14_Structs/06_function_pointers.md|
+|[Next Topic](/14_Structs/06_function_pointers.md)|
 |---|
