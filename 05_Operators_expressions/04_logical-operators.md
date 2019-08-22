@@ -61,5 +61,5 @@ y || y
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/05_Operators_expressions/05_assignment-operators.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
-
+|[Next Topic](/05_Operators_expressions/05_assignment-operators.md)|
+|---|
