@@ -1,5 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
+---
 
 /*
 Haystack Needle Lab
@@ -67,4 +69,6 @@ int haystack_needle(char *haystack, char *needle, char *buffer)
 ```
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/14_Structs/README.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+
+|[Next Topic](/14_Structs/README.md)|
+|---|
