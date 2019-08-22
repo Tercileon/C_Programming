@@ -39,4 +39,5 @@ A block consists of a group of statements that are made into a single statement.
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/07_Control_flow/02_conditional-statements.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+|[Next Topic](/07_Control_flow/02_conditional-statements.md)|
+|---|
