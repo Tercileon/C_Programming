@@ -1,5 +1,5 @@
-|[Return to Topic](/12_IO_part_2/02_related_functions.md)| |[Table of Contents](/00-Table-of-Contents.md)|
-|---| |---|
+|[Return to Topic](/12_IO_part_2/02_related_functions.md)| [Table of Contents](/00-Table-of-Contents.md)|
+|---|---|
 
 ---
 
