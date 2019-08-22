@@ -1,4 +1,3 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
 |[Table of Contents](/00-Table-of-Contents.md)|
 |---|
 
@@ -178,7 +177,6 @@ This example is just showcasing various methods of accessing and modifying array
 
 ---
 
-
 | * someList_ptr = 0xDEADBEEF; |
 |----------------------------|
 ![](/assets/Arrays_Rev_8.png)
@@ -210,4 +208,6 @@ someList_ptr += 2;			// …AKA Address arithmetic
 
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/11_Pointers_Arrays/07_Address_Arithmatic.md" > Continue to Next Topic </a>
+
+|[Next Topic](/11_Pointers_Arrays/07_Address_Arithmatic.md)|
+|---|
