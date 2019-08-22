@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # Lab 10: Bitwise Shift Right
 
@@ -13,4 +16,9 @@
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/06_Bitwise_operators/capstone-1.md" rel="Go on to Capstone"> Go on to Capstone </a>
+**Go on to Capstone**
+
+---
+
+|[CAPSTONE!](/06_Bitwise_operators/capstone-1.md)|
+|---|
