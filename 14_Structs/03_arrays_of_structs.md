@@ -68,4 +68,6 @@ int main(void)
 ```
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/14_Structs/04_struct_visualization.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+
+|[Next Topic](/14_Structs/04_struct_visualization.md)|
+|---|
