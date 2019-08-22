@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Tabel of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -19,4 +20,6 @@
 **Note** "input_ptr" should be a pointer variable
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/11_Pointers_Arrays/06_Arrays_Review.md" > Continue to Next Topic </a>
+
+|[Arrasy Review](/11_Pointers_Arrays/06_Arrays_Review.md)|
+|---|
