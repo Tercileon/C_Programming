@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Topic](/12_IO_part_2/02_related_functions.md)| [Table of Contents](/00-Table-of-Contents.md)|
+|---|---|
+
+---
 
 ## PERFORMANCE LAB: USERNAMES
 
@@ -18,4 +21,5 @@ File I/O – fprintf()
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/13_Memory_Management/01_concepts.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+|[Next Topic](/13_Memory_Management/01_concepts.md)|
+|---|
