@@ -3,7 +3,7 @@
 
 ---
 
-# File Data Types
+## File Data Types
 
 ### What is a File?
 
@@ -27,4 +27,5 @@ file * myFile_ptr;                      //real syntax
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/12_IO_part_2/02_related_functions.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+|[Next Topic](/12_IO_part_2/02_related_functions.md)|
+|---|
