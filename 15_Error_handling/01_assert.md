@@ -154,6 +154,10 @@ int main(void)
 }
 ```
 ---
+
 ### PEFORMANCE LAB - String
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/15_Error_handling/Performance_Labs/Lab_string.md" rel="String"> String </a>
+---
+
+|[Performance Lab String](/15_Error_handling/Performance_Labs/Lab_string.md)|
+|---|
