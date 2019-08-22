@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/12_IO_part_2/02_related_functions.md" rel="Return to TOPIC"> Return to TOPIC </a>
+|[Return to Topic](/12_IO_part_2/02_related_functions.md)| [Table of Contents](/00-Table-of-Contents.md)|
+|---|---|
+
+---
 
 ## PEFORMANCE LAB: CONTENT COPY CHAR-BY-CHAR
 
@@ -16,4 +19,5 @@ File I/O – putc()
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/12_IO_part_2/performance_labs/PL_content_copy_line.md" rel="Continue to Content Copy Line Lab"> Continue to Content Copy Line Lab </a>
+|[Performance Lab Content Copy](/12_IO_part_2/performance_labs/PL_content_copy_line.md)|
+|---|
