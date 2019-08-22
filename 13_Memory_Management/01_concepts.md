@@ -71,4 +71,6 @@ NOTE: Different sources enumerate segments differently!!!
     5. Function calls results in a *stack frame* being **pushed** onto the stack.
     
 ---
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/13_Memory_Management/02_stack_memory.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+
+|[Next Topic](/13_Memory_Management/02_stack_memory.md)|
+|---|
