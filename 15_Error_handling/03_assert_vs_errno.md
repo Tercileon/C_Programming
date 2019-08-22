@@ -37,5 +37,5 @@ Replicate the error to test your implementations.
 ---
 ### COMPLETE PERFORMANCE LAB - OUTPUT
 
-|[Performance Lab OUTPUT/15_Error_handling/Performance_Labs/Lab_output.md|
+|[Performance Lab OUTPUT](/15_Error_handling/Performance_Labs/Lab_output.md)|
 |---|
