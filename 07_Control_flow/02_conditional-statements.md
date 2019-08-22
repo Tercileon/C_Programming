@@ -58,7 +58,8 @@ IF statement:
 
 ## PERFORMANCE LAB 11
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/07_Control_flow/performance_labs/Lab11.md" rel="PERFORMANCE LAB 11"> PERFORMANCE LAB 11 </a>
+|[Performance Lab 11](/07_Control_flow/performance_labs/Lab11.md)|
+|---|
 
 ---
 
@@ -121,9 +122,8 @@ IF-ELSE statement:
 
 ## PERFORMANCE LAB 12
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/07_Control_flow/performance_labs/Lab12.md" rel="PERFORMANCE LAB 12"> PERFORMANCE LAB 12 </a>
-
----
+|[Performance Lab 12](/07_Control_flow/performance_labs/Lab12.md)|
+|---|
 
 ### ELSE-IF statements
 
@@ -194,7 +194,8 @@ NOTE: Do not leave else-if statements unwrapped {}!
 
 ## PERFORMANCE LAB 13
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/07_Control_flow/performance_labs/Lab13.md" rel="PERFORMANCE LAB 13"> PERFORMANCE LAB 13 </a>
+|[Performance Lab 13](/07_Control_flow/performance_labs/Lab13.md)|
+|---|
 
 ---
 
@@ -292,7 +293,8 @@ switch (binaryInput)
 
 ## PERFORMANCE LAB 14
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/07_Control_flow/performance_labs/Lab14.md" rel="PERFORMANCE LAB 14"> PERFORMANCE LAB 14 </a>
+|[Performance Lab 14](/07_Control_flow/performance_labs/Lab14.md)|
+|---|
 
 ---
 
@@ -632,4 +634,5 @@ switch (inputDecimal)
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/07_Control_flow/05_nested-control-flow.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+|[Next Topic](/07_Control_flow/05_nested-control-flow.md)|
+|---|
