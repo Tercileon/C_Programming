@@ -96,5 +96,9 @@ There are much more efficient ways to iterate through an array such as loops (wh
 
 ---
 
+**Complete Performace Lab 3**
+
+---
+
 |[Performance Lab 3](/03_Arrays_strings/performance_labs/lab3/lab3.md)|
 |---|
