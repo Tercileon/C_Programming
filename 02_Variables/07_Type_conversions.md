@@ -65,7 +65,3 @@ Type cast and print the following:
 
 |[Demonstration Lab 2](/02_Variables/performance_labs/lab2.md)|
 |---|
-
-
-
-
