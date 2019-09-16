@@ -1,10 +1,11 @@
+### ![](/assets/The_C_Programming_Language_logo.svg.png)Chapters:
+
+---
 |[Table of Contents](/00-Table-of-Contents.md)|
 |---|
 
 ---
 # Introduction to C Course
-
-### ![](/assets/The_C_Programming_Language_logo.svg.png)Chapters:
 
 * Intro to C
 * Variables
