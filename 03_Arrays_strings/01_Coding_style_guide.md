@@ -36,5 +36,7 @@ int main(void)
 }
 ```
 
+---
+
 |[Next Topic](/03_Arrays_strings/02_Arrays.md)|
 |---|
