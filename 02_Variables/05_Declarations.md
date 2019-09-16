@@ -64,5 +64,9 @@ int main(void)
 
 ---
 
+**Complete Performance Lab 1**
+
+---
+
 |[Performance Lab 1](/02_Variables/performance_labs/lab1.md)|
 |---|
