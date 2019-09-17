@@ -125,6 +125,8 @@ IF-ELSE statement:
 |[Performance Lab 12](/07_Control_flow/performance_labs/Lab12.md)|
 |---|
 
+---
+
 ### ELSE-IF statements
 
 An if statement may also include multiple else conditions.
