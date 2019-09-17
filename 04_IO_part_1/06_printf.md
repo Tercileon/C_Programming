@@ -222,4 +222,3 @@ printf("%016.11s", "Hello world!\0");
 
 |[Next Topic](/04_IO_part_1/07_scanf.md)|
 |---|
-
