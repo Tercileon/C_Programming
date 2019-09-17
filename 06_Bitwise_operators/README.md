@@ -20,6 +20,6 @@
 * The different numbering systems
 
 ---
+
 |[Next Topic](/06_Bitwise_operators/01_bitwise-operations.md)|
 |---|
-
