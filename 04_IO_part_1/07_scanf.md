@@ -144,4 +144,3 @@ scanf(“%64[^e\n]s”, Gadsby);     // Stops reading at first e or newline
 
 |[Performance Lab 8](/04_IO_part_1/performance_labs/lab8/lab8.md)|
 |---|
-
