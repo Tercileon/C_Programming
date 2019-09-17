@@ -162,6 +162,7 @@ fputs(buff, stdout);                 // Writes to stdout
 * Enter a string: **Superman**
 
 ---
+
 |[Next Topic](/04_IO_part_1/06_printf.md)|
 |---|
 
