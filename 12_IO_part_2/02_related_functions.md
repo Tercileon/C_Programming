@@ -175,6 +175,7 @@ int main(void)
     return 0;
 }
 ```
+
 **Note:** Remember to build in safety checks!
 
 **DemoLab:** Funk
