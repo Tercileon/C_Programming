@@ -3,8 +3,7 @@
 
 ---
 
-
-# Lab 5: Basic I/O Pt 1
+## Lab 5: Basic I/O Pt 1
 
 Work with each other! It is encouraged throughout the entire course.
 
