@@ -75,6 +75,7 @@ The data in memmory is where the memory visualization differs from Visual Studio
 * Answer:  00	
 * Answer:  0x0090C088	
 * Answer:  0x0090C055, 0x0090C073, and 0x0090C08B
+
 ---
 
 |[Next Topic](/11_Pointers_Arrays/05_Memory_Operators.md)|
