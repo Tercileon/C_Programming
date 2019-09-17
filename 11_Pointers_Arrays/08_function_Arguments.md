@@ -2,6 +2,7 @@
 |---|
 
 ---
+
 ## Function Arguments
 
 ## Introduction
@@ -78,6 +79,7 @@ int main(void)
     [...]
 }
 ```
+---
 
 |[Next Topic](/11_Pointers_Arrays/09_Pointer_Arrays.md)|
 |---|
